@@ -1,1 +1,1 @@
-# gintonic-bank
+# Gintonic Bank
